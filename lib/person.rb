@@ -1,3 +1,7 @@
 class Person
-  def initialize()
+  attr_accessor 
+  
+  def initialize(attributes)
+    
+  end
 end
